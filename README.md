@@ -3,9 +3,9 @@
 Soy **Ana Fernández**, desarrolladora web apasionada por crear sitios rápidos, bonitos y funcionales.
 
 ### 💡 Especializada en:
-- 🎨 **Diseño web responsivo**
-- 🌐 **WordPress + Astra + CSS personalizado**
-- ⚡️ **Proyectos ligeros y optimizados**
+- 🎨 **Desarrollo web y app**
+- 🌐 ** CMS WordPress + Tema Astra + HTML + JS + CSS personalizado + Vercel + Supabase + Firebase + Next + React + Typescript + **
+- ⚡️ **Proyectos ligeros , optimizados y Personalizados**
 
 ---
 
