@@ -1,15 +1,15 @@
-## ¡Hola, soy Anixy {Dev}! 👩‍💻🚀
+ ¡Hola, soy Anixy {Dev}! 👩‍💻🚀
 
 Soy **Ana Fernández**, desarrolladora web apasionada por crear sitios rápidos, bonitos y funcionales.
 
-### 💡 Especializada en:
-- 🎨 **Desarrollo web y app**
-- 🌐 ** CMS WordPress + Tema Astra + HTML + JS + CSS personalizado + Vercel + Supabase + Firebase + Next + React + Typescript + **
-- ⚡️ **Proyectos ligeros , optimizados y Personalizados**
+ 💡 Especializada en:
+- 🎨 Desarrollo web y app
+- 🌐 CMS WordPress + Tema Astra + HTML + JS + CSS personalizado + Vercel + Supabase + Firebase + Next + React + Typescript + 
+- ⚡️ Proyectos ligeros , optimizados y Personalizados
 
 ---
 
-### 🛠️ Tecnologías que manejo:
+ 🛠️ Tecnologías que manejo:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
@@ -20,7 +20,7 @@ Soy **Ana Fernández**, desarrolladora web apasionada por crear sitios rápidos,
 
 ---
 
-### 🌟 Proyectos actuales:
+ 🌟 Proyectos actuales:
 - 🎯 **[comoaprenderastrologia.com](https://comoaprenderastrologia.com)**  
   📚 Mi web de astrología, donde combino mi pasión por las estrellas con desarrollo web.
 
@@ -29,12 +29,12 @@ Soy **Ana Fernández**, desarrolladora web apasionada por crear sitios rápidos,
 
 ---
 
-### ✨ Sobre mí:
-Amante de **la astrología**, el **código limpio** y las interfaces sencillas pero impactantes.
+ ✨ Sobre mí:
+Amante de la astrología, el código limpio y las interfaces sencillas pero impactantes.
 
 ---
 
-### 📈 Mis estadísticas en GitHub:
+ 📈 Mis estadísticas en GitHub:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anixydev&show_icons=true&theme=radical" alt="GitHub Stats de Anixy Dev">
@@ -54,9 +54,9 @@ Amante de **la astrología**, el **código limpio** y las interfaces sencillas p
 
 ---
 
-### 🚀 ¡Trabajemos juntos!
+ 🚀 ¡Trabajemos juntos!
 Si tienes una idea o proyecto web en mente,  
-📬 **anixydev@gmail.com**  
+📬 anixydev@gmail.com 
 Estoy siempre lista para colaborar.
 
 
