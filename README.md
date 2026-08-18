@@ -1,62 +1,52 @@
- ¡Hola, soy Anixy {Dev}! 👩‍💻🚀
+### ¡Hola! Soy Ana Fernández — Anixy{Dev} 👩‍💻
 
-Soy **Ana Fernández**, desarrolladora web apasionada por crear sitios rápidos, bonitos y funcionales.
+Desarrolladora full stack en Málaga. Construyo sitios y software a medida, rápidos y sin florituras innecesarias.
 
- 💡 Especializada en:
-- 🎨 Desarrollo web y app
-- 🌐 CMS WordPress + Tema Astra + HTML + JS + CSS personalizado + Vercel + Supabase + Firebase + Next + React + Typescript + 
-- ⚡️ Proyectos ligeros , optimizados y Personalizados
+**En qué trabajo:**
+- 🌐 WordPress con bloques HTML/CSS/JS nativos — sin constructores pesados
+- ⚡ SaaS y herramientas a medida (Next.js, React, TypeScript, Supabase, Firebase, Vercel)
+- 🧾 Automatización de facturación y procesos internos
 
 ---
 
- 🛠️ Tecnologías que manejo:
+### 🛠️ Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=ffffff)
-![Astra Theme](https://img.shields.io/badge/Astra%20Theme-7B3DF4?style=for-the-badge&logo=wordpress&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
 ---
 
- 🌟 Proyectos actuales:
-- 🎯 **[comoaprenderastrologia.com](https://comoaprenderastrologia.com)**  
-  📚 Mi web de astrología, donde combino mi pasión por las estrellas con desarrollo web.
+### 🚀 Proyectos
 
-- 🖥️ **[anafernandezrodriguez.com](https://anafernandezrodriguez.com)**  
-  💻 Mi portfolio profesional como desarrolladora web freelance.
+- 🖥️ **[anafernandezrodriguez.com](https://anafernandezrodriguez.com)** — Portfolio y servicios de desarrollo web/software (Anixy{Dev})
+- 🧾 **DevFreelancer.app** — Herramienta propia de facturación con cumplimiento Verifactu
+- 🔮 **[comoaprenderastrologia.com](https://comoaprenderastrologia.com)** — Proyecto personal de astrología
 
----
-
- ✨ Sobre mí:
-Amante de la astrología, el código limpio y las interfaces sencillas pero impactantes.
+📍 Málaga, España — trabajo en remoto para toda España
 
 ---
 
- 📈 Mis estadísticas en GitHub:
+### 📈 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anixydev&show_icons=true&theme=radical" alt="GitHub Stats de Anixy Dev">
+  <img src="https://github-readme-stats.vercel.app/api?username=anixydev&show_icons=true&theme=tokyonight" alt="GitHub Stats de Anixy Dev">
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anixydev&theme=radical" alt="GitHub Streak de Anixy Dev">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anixydev&theme=tokyonight" alt="GitHub Streak de Anixy Dev">
 </p>
 
 ---
 
-### 📌 Enlaces rápidos:
+### 📬 ¿Tienes un proyecto en mente?
 
-[![Visita mi sitio web de astrología](https://img.shields.io/badge/Web-comoaprenderastrologia.com-ff69b4?style=for-the-badge)](https://comoaprenderastrologia.com)
+[![Reserva una llamada de 30 min](https://img.shields.io/badge/Reservar%20llamada-Calendly-00C897?style=for-the-badge&logo=calendly&logoColor=ffffff)](https://calendly.com/anixydev/30min)
+[![Ver portfolio](https://img.shields.io/badge/Portfolio-anafernandezrodriguez.com-0F172A?style=for-the-badge)](https://anafernandezrodriguez.com)
 
-[![Visita mi portfolio](https://img.shields.io/badge/Portfolio-anafernandezrodriguez.com-00C897?style=for-the-badge)](https://anafernandezrodriguez.com)
-
----
-
- 🚀 ¡Trabajemos juntos!
-Si tienes una idea o proyecto web en mente,  
-📬 anixydev@gmail.com 
-Estoy siempre lista para colaborar.
-
-
+📧 contacto@anafernandezrodriguez.com
