@@ -18,6 +18,7 @@ Desarrolladora full stack en Málaga. Construyo sitios y software a medida, ráp
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=ffffff)
+![Astra](https://img.shields.io/badge/Astra%20Theme-7B3DF4?style=for-the-badge&logo=wordpress&logoColor=ffffff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
@@ -49,4 +50,4 @@ Desarrolladora full stack en Málaga. Construyo sitios y software a medida, ráp
 [![Reserva una llamada de 30 min](https://img.shields.io/badge/Reservar%20llamada-Calendly-00C897?style=for-the-badge&logo=calendly&logoColor=ffffff)](https://calendly.com/anixydev/30min)
 [![Ver portfolio](https://img.shields.io/badge/Portfolio-anafernandezrodriguez.com-0F172A?style=for-the-badge)](https://anafernandezrodriguez.com)
 
-📧 contacto@anafernandezrodriguez.com
+📧 anixydev@gmail.com
